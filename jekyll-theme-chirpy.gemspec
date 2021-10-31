@@ -17,7 +17,7 @@ Gem::Specification.new do |spec|
   spec.metadata = {
     "bug_tracker_uri"   => "https://github.com/taki-unquy/cursos/issues",
     "documentation_uri" => "https://github.com/taki-unquy/cursos/blob/master/README.md",
-    "homepage_uri"      => "https://taki-unquy.github.io/chirpy-demo",
+    "homepage_uri"      => "https://taki-unquy.github.io/cursos",
     "source_code_uri"   => "https://github.com/taki-unquy/cursos",
     "wiki_uri"          => "https://github.com/taki-unquy/cursos/wiki",
     "plugin_type"       => "theme"
