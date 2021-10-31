@@ -1,5 +1,5 @@
 {
-  "name": "jekyll-theme-chirpy",
+  "name": "cursos",
   "version": "4.3.3",
   "description": "A minimal, sidebar, responsive web design Jekyll theme that focuses on text presentation.",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cotes2020/jekyll-theme-chirpy.git"
+    "url": "git+https://github.com/taki-unquy/cursos.git"
   },
   "author": "Cotes Chung",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cotes2020/jekyll-theme-chirpy/issues"
+    "url": "https://github.com/taki-unquy/cursos/issues"
   },
-  "homepage": "https://github.com/cotes2020/jekyll-theme-chirpy#readme",
+  "homepage": "https://github.com/taki-unquy/cursos#readme",
   "dependencies": {
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
